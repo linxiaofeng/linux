@@ -16,6 +16,48 @@ Markdown
 
 使用```~~delete~~```来实现~~删除~~
 
+使用````linux` `Markdown` `git````来实现`linux` `Markdown` `git`
+
+#### 并列
+##### 无序排列
+```
++ line1
++ line2
+```
+或
+```
+- line1
+- line2
+```
+或
+```
+* line1
+* line2
+```
+实现
++ line1
++ line2
+
+- line1
+- line2
+
+* line1
+* line2
+##### 有序排列
+```
+1. line1
+1. line2
+1. line3
+	1. line31
+	1. line32
+	1. line33
+```
+1. line1
+1. line2
+1. line3
+	1. line31
+	1. line32
+	1. line33
 #### 表格
 使用
 ```
