@@ -17,16 +17,18 @@ MarkDown
 使用’==highlight==‘来实现高亮
 #### 表格
 使用
-’‘’
+```
 | title1 | title2 | title3 |
 | :--- | :--: | ---: |
 | left | middle | right |
 | l | m | r |
-'''
+```
+
 | title1 | title2 | title3 |
 | :--- | :--: | ---: |
 | left | middle | right |
 | l | m | r |
+
 #### 图片和链接
 使用'![alt](url title)'来实现图片
 ![pic error](https://wap.sogou.com/resource/web/images/sogou160x42.png sogouTitle)
