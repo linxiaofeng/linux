@@ -30,7 +30,8 @@ MarkDown
 | l | m | r |
 
 #### 图片和链接
-使用'![alt](url title)'来实现图片
+```使用![alt](url title)来实现图片```
 ![pic error](https://wap.sogou.com/resource/web/images/sogou160x42.png sogouTitle)
-使用'[content](url)'来实现链接
+
+```使用[content](url)来实现链接```
 [sogou](https://wap.sogou.com/)
