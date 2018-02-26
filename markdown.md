@@ -16,7 +16,7 @@ Markdown
 
 使用```~~delete~~```来实现~~删除~~
 
-使用```\`linux\` \`Markdown\` \`git\````来实现`linux` `Markdown` `git`
+使用``` `linux` `Markdown` `git` ```来实现`linux` `Markdown` `git`
 
 #### 并列
 ##### 无序排列
