@@ -71,7 +71,7 @@ grep [OPTIONS] PATTERN [FILE]
 
 `[:print:]` 可打印字符 `[:alnum:]` + `[:punct:]` + space
 
-`[:punct:]` 标点字符 `! " # $ % & ' ( ) * + , - . / : ; < = > ? @ [ \ ] ^ _ &apos; { | } ~`
+`[:punct:]` 标点字符 `! " # $ % & ' ( ) * + , - . / : ; < = > ? @ [ \ ] ^ _ \` { | } ~`
 
 `[:space:]` 空格、tab
 
