@@ -1,7 +1,7 @@
 # grep
 
 ### 简介
-grep（Global Regular Expression Print）主要用来对文件或标准输入中的行进行匹配。
+grep（Global Regular Expression Print）主要用来对文件或标准输入中的**行**进行匹配。
 
 ### 语法
 grep [OPTIONS] PATTERN [FILE]
@@ -63,15 +63,15 @@ grep [OPTIONS] PATTERN [FILE]
 
 `[:digit:]` [0-9]
 
-`[:graph:]` 图形字符 ‘[:alnum:]’ + '[:punct:]'
+`[:graph:]` 图形字符 `[:alnum:]` + `[:punct:]`
 
 `[:lower:]` [a-z]
 
 `[:upper:]` [A-Z]
 
-`[:print:]` 可打印字符 ‘[:alnum:]’ + '[:punct:]' + space
+`[:print:]` 可打印字符 `[:alnum:]` + `[:punct:]` + space
 
-`[:punct:]` 标点字符 `! " # $ % & ' ( ) * + , - . / : ; < = > ? @ [ \ ] ^ _ ` { | } ~`
+`[:punct:]` 标点字符 `! " # $ % & ' ( ) * + , - . / : ; < = > ? @ [ \ ] ^ _ \` { | } ~`
 
 `[:space:]` 空格、tab
 
